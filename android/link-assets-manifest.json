@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/LavishlyYours-Regular.ttf",
+      "sha1": "bca76e18790c8112ee4575dbe78dd19130ee0037"
+    },
+    {
+      "path": "assets/fonts/Pacifico-Regular.ttf",
+      "sha1": "e31302d2fce7caf5cb86ddde0db78cdac47952bd"
+    },
+    {
+      "path": "assets/fonts/Satisfy-Regular.ttf",
+      "sha1": "86a3893ac9b6ec87d8a5dd847ef6ad967ce97318"
+    }
+  ]
+}
